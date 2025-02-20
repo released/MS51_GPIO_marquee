@@ -16,12 +16,11 @@ LED4/P00
 LED5/P10
 
 2. Below is DEMO1
-
-![image](https://github.com/released/MS51_GPIO_marquee/blob/master/IMG_4932.gif)
+		
+![image](https://github.com/released/MS51_GPIO_marquee/blob/main/IMG_4932.gif)		
 
 Below is DEMO2
 
-![image](https://github.com/released/MS51_GPIO_marquee/blob/master/IMG_4933.gif)
-
+![image](https://github.com/released/MS51_GPIO_marquee/blob/main/IMG_4933.gif)	
 
 
